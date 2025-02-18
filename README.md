@@ -19,5 +19,5 @@ A Python-based cybersecurity tool for network reconnaissance, TCP port scanning,
 
 ### 1️⃣ Clone the Repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/MOR444/network-scanner.git
+
